@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Srivani Ganji 👋
 
-<!--
-**srivaniganji/srivaniganji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **CS Undergrad at RGUKT Basar**
 
-Here are some ideas to get you started:
+💻 **Technology Enthusiast**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 **Open Source Contributor**
+
+## 🔧 Technologies & Tools
+
+- **Languages:** C++, JavaScript, Python
+- **Frontend:** React, HTML, CSS
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB, MySQL
+- **Other Tools:** Git, Puppeteer
+
+## 📊 GitHub Stats
+
+GitHub stats: https://github-readme-stats.vercel.app/api?username=srivaniganji&show_icons=true&theme=radical)
+
+## 📈 Most Used Languages
+
+Top Languages - https://github-readme-stats.vercel.app/api/top-langs/?username=srivaniganji&layout=compact&theme=radical)
+
+## 🚀 Projects
+
+- Placement-Particulars-Portal: (https://github.com/srivaniganji/Placement-Particulars-Portal)
+- More Works: (https://github.com/srivaniganji?tab=repositories)
+
+## Visit My PortFolio
+
+- Portfolio: https://srivani-portfolio.vercel.app/
+
+## 🌐 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/srivaniganji/
+
