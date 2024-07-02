@@ -23,14 +23,22 @@
 ## 📊 GitHub Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srivaniganji&" alt="Srivani-Ganji" /></p>
 
+## 🔥 GitHub Contributions
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srivaniganji&show_icons=true&locale=en" alt="Srivani-Ganji" /></p>
+
 ## 📈 Most Used Languages
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srivaniganji&show_icons=true&locale=en&layout=compact" alt="Srivani-Ganji" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srivaniganji&show_icons=true&locale=en&layout=compact" alt="Srivani-Ganji" /></p>
 
 ## 🚀 Projects
 
 - Placement-Particulars-Portal: (https://github.com/srivaniganji/Placement-Particulars-Portal)
 - More Works: (https://github.com/srivaniganji?tab=repositories)
+
+## 🔗 My Profiles
+
+<p align="left"> <a href="https://www.cprogramming.com/](https://leetcode.com/u/Srivani_Ganji/"> <img src="![Untitled](https://github.com/srivaniganji/srivaniganji/assets/110708151/7fb6c3cd-65dc-4c88-b5ba-d6e4c253aa54)
+" alt="c" width="40" height="40"/> </a></p>
 
 ## 🌐 Visit My PortFolio
 
