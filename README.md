@@ -27,8 +27,6 @@
 ## 🔥 GitHub Contributions
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srivaniganji&show_icons=true&locale=en" alt="Srivani-Ganji" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srivaniganji&show_icons=true&locale=en&layout=compact" alt="Srivani-Ganji" /></p>
-
 
 ## 📈 Most Used Languages
 
