@@ -35,11 +35,6 @@
 - Placement-Particulars-Portal: (https://github.com/srivaniganji/Placement-Particulars-Portal)
 - More Works: (https://github.com/srivaniganji?tab=repositories)
 
-## 🔗 My Profiles
-
-<p align="left"> <a href="https://www.cprogramming.com/](https://leetcode.com/u/Srivani_Ganji/"> <img src="![Untitled](https://github.com/srivaniganji/srivaniganji/assets/110708151/7fb6c3cd-65dc-4c88-b5ba-d6e4c253aa54)
-" alt="c" width="40" height="40"/> </a></p>
-
 ## 🌐 Visit My PortFolio
 
 - Portfolio: https://srivani-portfolio.vercel.app/
