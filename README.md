@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nagaraju Chary</h1>
+<h1 align="center">Hi 👋, I'm Ganji Srivani </h1>
 <h3 align="center">Wev Developer | Programmer |  Learner</h3>
 
 🎓 **CS Undergrad at RGUKT Basar**
