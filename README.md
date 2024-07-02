@@ -23,8 +23,12 @@
 ## 📊 GitHub Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srivaniganji&" alt="Srivani-Ganji" /></p>
 
+
 ## 🔥 GitHub Contributions
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srivaniganji&show_icons=true&locale=en" alt="Srivani-Ganji" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srivaniganji&show_icons=true&locale=en&layout=compact" alt="Srivani-Ganji" /></p>
+
 
 ## 📈 Most Used Languages
 
