@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ganji Srivani </h1>
-<h3 align="center">Wev Developer | Programmer |  Learner</h3>
+<h3 align="left">Wev Developer | Programmer |  Learner</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srivaniganji&label=Profile%20views&color=0e75b6&style=flat" alt="SrivaniGanji" /> </p>
+
 
 🎓 **CS Undergrad at RGUKT Basar**
 
