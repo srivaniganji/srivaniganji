@@ -22,7 +22,7 @@
 
 ## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suchitraguduru&show_icons=true&locale=en&layout=compact" alt="suchitraguduru" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srivaniganji&show_icons=true&locale=en&layout=compact" alt="Srivani-Ganji" /></p>
 
 
 ## 📈 Most Used Languages
