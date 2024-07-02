@@ -21,12 +21,11 @@
 - **Other Tools:** Git, Puppeteer
 
 ## 📊 GitHub Stats
-
-GitHub stats: https://github-readme-stats.vercel.app/api?username=srivaniganji&show_icons=true&theme=radical)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srivaniganji&" alt="Srivani-Ganji" /></p>
 
 ## 📈 Most Used Languages
 
-Top Languages - https://github-readme-stats.vercel.app/api/top-langs/?username=srivaniganji&layout=compact&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srivaniganji&show_icons=true&locale=en&layout=compact" alt="Srivani-Ganji" /></p>
 
 ## 🚀 Projects
 
