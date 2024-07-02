@@ -33,11 +33,11 @@ Top Languages - https://github-readme-stats.vercel.app/api/top-langs/?username=s
 - Placement-Particulars-Portal: (https://github.com/srivaniganji/Placement-Particulars-Portal)
 - More Works: (https://github.com/srivaniganji?tab=repositories)
 
-## Visit My PortFolio
+## 🌐 Visit My PortFolio
 
 - Portfolio: https://srivani-portfolio.vercel.app/
 
-## 🌐 Connect with Me
+## 🤝 Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/srivaniganji/
 
