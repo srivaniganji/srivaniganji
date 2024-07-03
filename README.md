@@ -34,8 +34,8 @@
 
 ## 🚀 Projects
 
-- Placement-Particulars-Portal: (https://github.com/srivaniganji/Placement-Particulars-Portal)
-- More Works: (https://github.com/srivaniganji?tab=repositories)
+- Placement-Particulars-Portal: https://github.com/srivaniganji/Placement-Particulars-Portal
+- More Works: https://github.com/srivaniganji?tab=repositories
 
 ## 🌐 Visit My PortFolio
 
