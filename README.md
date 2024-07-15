@@ -45,3 +45,10 @@
 
 - LinkedIn: https://www.linkedin.com/in/srivaniganji/
 
+
+## 🐍 See our Snake
+
+<p align="center">
+ <img width="1000" src="snake.svg" alt="snake"/>
+</p>
+
