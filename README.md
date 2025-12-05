@@ -1,24 +1,23 @@
 <h1 align="center">Hi 👋, I'm Srivani Ganji</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srivaniganji&label=Profile%20views&color=0e75b6&style=flat" alt="Srivani-Ganji" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=srivaniganji&label=Profile%20views&color=0e75b6&style=flat" alt="Srivani-Ganji" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srivaniganji" alt="Srivani-Ganji" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srivaniganji" alt="Srivani-Ganji" /></a> </p> -->
 
 
+💻 **Software Engineer**
 
-🎓 **CS Undergrad at RGUKT Basar**
-
-💻 **Technology Enthusiast**
+🎓 **CS Graduate from RGUKT Basar**
 
 📈 **Open Source Contributor**
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** C++, JavaScript, Python
-- **Frontend:** React, HTML, CSS
+- **Languages:** C++, JavaScript, Dart*
+- **Frontend:** React, HTML, CSS, Flutter
 - **Backend:** Node.js, Express.js
-- **Databases:** MongoDB, MySQL
-- **Other Tools:** Git, Puppeteer
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Other Tools:** Git
 
 <!--
 ## 📊 GitHub Stats
