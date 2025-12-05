@@ -34,16 +34,19 @@
 -->
 ## 🚀 Projects
 
+- K-Skill - An English Learning Platform: https://github.com/srivaniganji/k-skill
 - Placement-Particulars-Portal: https://github.com/srivaniganji/Placement-Particulars-Portal
 - More Works: https://github.com/srivaniganji?tab=repositories
 
-## 🌐 Visit My PortFolio
+## 🌐 Visit My Profiles
 
 - Portfolio: https://srivani-portfolio.vercel.app/
+- Leetcode: https://leetcode.com/u/Srivani_Ganji/
+- GeeksForGeeks: https://www.geeksforgeeks.org/profile/srivaniga05oq
 
 ## 🤝 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/srivaniganji/
+- LinkedIn: https://www.linkedin.com/in/srivani-ganji-339a5a240/
 
 
 ## 🐍 See our Snake
