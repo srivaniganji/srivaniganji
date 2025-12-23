@@ -13,7 +13,7 @@
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** C++, JavaScript, Dart*
+- **Languages:** C++, JavaScript, Python, Dart*
 - **Frontend:** React, HTML, CSS, Flutter
 - **Backend:** Node.js, Express.js
 - **Databases:** MongoDB, MySQL, PostgreSQL
